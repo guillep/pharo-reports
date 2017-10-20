@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "GuillermoPolito 10/17/2017 10:14",
+	"super" : "Object",
+	"category" : "PharoReports",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"from",
+		"to",
+		"github"
+	],
+	"name" : "PharoPullRequestReport",
+	"type" : "normal"
+}
