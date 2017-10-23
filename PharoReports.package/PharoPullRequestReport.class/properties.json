@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "GuillermoPolito 10/17/2017 10:14",
+	"commentStamp" : "StephaneDucasse 10/22/2017 15:45",
 	"super" : "Object",
 	"category" : "PharoReports",
 	"classinstvars" : [ ],
@@ -8,7 +8,8 @@
 	"instvars" : [
 		"from",
 		"to",
-		"github"
+		"github",
+		"stream"
 	],
 	"name" : "PharoPullRequestReport",
 	"type" : "normal"
